@@ -1,4 +1,4 @@
-#guarantee {
+.guarantee {
   line-height: 1.9em;
   font-style: italic;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -17,7 +17,7 @@
   background-repeat: no-repeat;
   background-position: top left;
 }
-#elixirs {
+.elixirs {
   border-width: thin;
   border-style: solid;
   border-color: #007e7e;
@@ -30,11 +30,12 @@
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
   line-height: 1;
+  float: right;
 }
-#elixirs h2 {
+.elixirs h2 {
   color: black;
 }
-#elixirs h3 {
+.elixirs h3 {
   color: #d12c47;
 }
 .cd {
@@ -43,13 +44,13 @@
 .artist {
   font-weight: bold;
 }
-#elixirs a:link {
+.elixirs a:link {
   color: #007e7e;
 }
-#elixirs a:visited {
+.elixirs a:visited {
   color: #333333
 }
-#elixirs a:hover {
+.elixirs a:hover {
   background: #f88396;
   color: #0d5353;
 }
