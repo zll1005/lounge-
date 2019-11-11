@@ -54,3 +54,11 @@
   background: #f88396;
   color: #0d5353;
 }
+.footer {
+  color:            black;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px;
+  font-size:        90%;
+  clear: right;
+}
